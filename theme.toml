@@ -1,0 +1,11 @@
+name = "Culture Of Code v2"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+description = ""
+homepage = ""
+tags = []
+features = []
+
+[author]
+  name = "Kenneth Bowen"
+  homepage = "https://cultureofcode.com"
