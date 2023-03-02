@@ -1,8 +1,8 @@
 name = "Culture Of Code v2"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
-homepage = ""
+licenselink = "https://github.com/kpb/hugo-coc-v2/blob/main/LICENSE"
+description = "Culture of Code theme version 2"
+homepage = "https://cultureofcode.com"
 tags = []
 features = []
 
